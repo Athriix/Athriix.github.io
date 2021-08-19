@@ -2148,26 +2148,27 @@ hr{
     padding:0 !important
 }
 .slider-height{
-    height:1080px
+    height:100vh;
+    /*height:1080px*/
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px){
     .slider-height{
-        height:100vh
+        height:100vh;
     }
 }
 @media only screen and (min-width: 768px) and (max-width: 991px){
     .slider-height{
-        height:100vh
+        height:100vh;
     }
 }
 @media only screen and (min-width: 576px) and (max-width: 767px){
     .slider-height{
-        height:100vh
+        height:100vh;
     }
 }
 @media (max-width: 575px){
     .slider-height{
-        height:100vh
+        height:100vh;
     }
 }
 .slider-height2{
@@ -2255,7 +2256,7 @@ hr{
     transform:translateY(-50%)
 }
 .slider-area .hero__caption h1{
-    font-size:70px;
+    font-size:60px;
     font-weight:700;
     margin-bottom:14px;
     color:#fff;
@@ -2265,7 +2266,7 @@ hr{
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px){
     .slider-area .hero__caption h1{
-        font-size:70px;
+        font-size:60px;
         line-height:1.2
     }
 }
