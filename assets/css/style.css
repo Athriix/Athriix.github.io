@@ -3236,9 +3236,9 @@ hr{
 .team-area .single-team .team-caption{
     position:absolute;
     /*bottom:-36px;*/
-    top: 60%;
+    top: 50%;
     width:100%;
-    padding:32px 10px 50px 30px;
+    padding:20px 20px 20px 20px;
     -webkit-transition:.4s;
     -moz-transition:.4s;
     -o-transition:.4s;
@@ -3287,7 +3287,7 @@ hr{
 .team-area .single-team:hover .team-caption{
     background:#ff1313;
     /*top: 0;*/
-    top:60%;
+    top:50%;
 }
 .team-area .single-team:hover .team-caption h3 a{
     color:#fff
@@ -3306,7 +3306,7 @@ hr{
 }
 .team-social li a{
     color:#8ba4b1;
-    font-size:14px;
+    font-size:12px;
     margin-right:21px;
     display:inline-block;
     -webkit-transform:.4s;
