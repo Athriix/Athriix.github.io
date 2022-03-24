@@ -2172,12 +2172,12 @@ hr{
     }
 }
 .slider-height2{
-    height:450px;
+    height:350px;
     background-size:cover
 }
 @media only screen and (min-width: 768px) and (max-width: 991px){
     .slider-height2{
-        height:100vh
+        height:60vh
     }
 }
 @media only screen and (min-width: 576px) and (max-width: 767px){
@@ -2347,7 +2347,7 @@ hr{
     height:80px;
     display:inline-block;
     text-align:center;
-    line-height:80px;
+    line-height:93px;
     border-radius:50%
 }
 @media only screen and (min-width: 576px) and (max-width: 767px){
